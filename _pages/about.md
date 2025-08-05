@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: PDL C-111</p>
+    <p>4110 E Stevens Way NE</p>
+    <p>Seattle, WA 98195</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student in Rome (Sapienza University of Rome), where my advisor is [Filippo Viviani](http://ricerca.mat.uniroma3.it/users/viviani/). Currently, I'm a Visiting Graduate Student at [University of Washington](https://math.washington.edu/), invited by [Jarod Alper](https://sites.math.washington.edu/~jarod/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests are in Algebraic geometry, in particular: moduli spaces of curves and birational geometry of $\mathrm{\overline{M}}_{g,n}$, algebraic stacks, and good moduli spaces.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests are in Algebraic geometry. In particular algebraic stacks and moduli spaces, with application to (the birational geometry of) moduli spaces of curves.
+
+You can find my curriculum here.
+
+Feel free to contact me at [davide.gori@uniroma1.it](mailto:davide.gori@uniroma1.it) !
+
+
+(is this the right format^?)
+
+you can find me at office C111 at UW.
+
